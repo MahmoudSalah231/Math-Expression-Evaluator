@@ -1,0 +1,14 @@
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\bin\Debug\net10.0\Math Expression Evaluator.exe
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\bin\Debug\net10.0\Math Expression Evaluator.deps.json
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\bin\Debug\net10.0\Math Expression Evaluator.runtimeconfig.json
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\bin\Debug\net10.0\Math Expression Evaluator.dll
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\bin\Debug\net10.0\Math Expression Evaluator.pdb
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\Math Expression Evaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\Math Expression Evaluator.AssemblyInfoInputs.cache
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\Math Expression Evaluator.AssemblyInfo.cs
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\Math Expression Evaluator.csproj.CoreCompileInputs.cache
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\Math Expression Evaluator.dll
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\refint\Math Expression Evaluator.dll
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\Math Expression Evaluator.pdb
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\Math Expression Evaluator.genruntimeconfig.cache
+C:\Users\7ooda\source\repos\FundamentalsWithC#\Math Expression Evaluator\obj\Debug\net10.0\ref\Math Expression Evaluator.dll
